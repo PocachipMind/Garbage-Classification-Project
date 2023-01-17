@@ -51,9 +51,9 @@ model.to(device)
 # exit()
 
 # Set parameters
-criterion = LabelSmoothingCrossEntropy()
-optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
-scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.1)
+criterion = nn.CrossEntropyLoss()
+optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
+scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)
 epoch_num = 20
 
 if __name__ == '__main__':
