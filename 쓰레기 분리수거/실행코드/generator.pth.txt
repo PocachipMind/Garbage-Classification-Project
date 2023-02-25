@@ -1,3 +1,7 @@
 GAN의 Generator 모델.
 
 500MB가 넘는 큰 용량이 때문에 Git에는 올리지 못했습니다.
+
+https://github.com/PocachipMind/GAN-implementation-Pytorch
+
+를 참고하여 제작해주시면 감사하겠습니다
