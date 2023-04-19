@@ -1,6 +1,6 @@
 # Garbage-Classification-Project
 
-MS AI Shcool을 진행하며 진행한 첫 번째 프로젝트입니다.
+MS AI Shcool을 진행하며 진행한 첫 번째 프로젝트입니다. ( 아직 작성중입니다. ) 
 
 
 ![이성규 포트폴리오-B (23 04 19)](https://user-images.githubusercontent.com/101550112/233021638-8dc4909b-2c96-4def-a652-c5cdfc47eb23.png)
