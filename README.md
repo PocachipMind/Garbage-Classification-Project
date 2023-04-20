@@ -1,6 +1,6 @@
 # Garbage-Classification-Project
 
-MS AI Shcool을 진행하며 진행한 첫 번째 프로젝트입니다. ( 아직 작성중입니다. ) 
+MS AI Shcool을 진행하며 진행한 첫 번째 프로젝트입니다.
 
 
 ![이성규 포트폴리오-B (23 04 19)](https://user-images.githubusercontent.com/101550112/233021638-8dc4909b-2c96-4def-a652-c5cdfc47eb23.png)
@@ -39,10 +39,22 @@ Classification모델을 활용한 쓰레기 분류 프로그램입니다.
 
 <br>
 
-프로그램 실행시 기본적으로 나오는 화면입니다.
+프로그램 실행시 다음과 같이 3개의 탭이 있습니다.
 
 
-![실행 1](https://user-images.githubusercontent.com/101550112/233073018-1f528efd-afe2-4e58-9ad3-5752d92ef714.png)
+![image](https://user-images.githubusercontent.com/101550112/233297295-89ab3b2d-2568-4aa8-9467-4fccebda1e37.png)
+
+1번 탭 Image Upload : 직접 이미지 파일을 올려서 쓰레기를 분류해 봅니다.
+
+![image](https://user-images.githubusercontent.com/101550112/233296961-479fd597-ecfe-4112-b651-56a4dee99a1b.png)
+
+2번 탭 Using WebCam : 내장되어있는 캠을 통해 이미지를 생성하고 쓰레기를 분류합니다.
+
+![image](https://user-images.githubusercontent.com/101550112/233304292-7bfe2f15-8593-461c-b9ce-e0bbee21ea77.png)
+
+3번 탭 Making Image : 원하는 쓰레기 이미지를 생성하여 해당 이미지를 갖고 해당 프로그램을 테스트 해봅니다.
+
+![image](https://user-images.githubusercontent.com/101550112/233321363-f3b6eca3-1f10-4920-aa0e-e67a46f6a158.png)
 
 <br>
 
