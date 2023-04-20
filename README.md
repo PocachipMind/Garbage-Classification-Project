@@ -7,7 +7,9 @@ MS AI Shcool을 진행하며 진행한 첫 번째 프로젝트입니다.
 ![이성규 포트폴리오-B2 (23 04 19)](https://user-images.githubusercontent.com/101550112/233021648-7f05077c-d08e-4efb-9a1e-e6149c1649ee.png)
 
 전체 프로그램 설명 URL :  https://youtu.be/FOzfgKr11-c
-
+<br>
+<br>
+<br>
 
 Classification 문제 해결 폴더 - 과제로 나온 문제해결 관련 자료
 
