@@ -75,21 +75,21 @@ Classification모델을 활용한 쓰레기 분류 프로그램입니다.
 
 
 
-### 즉, 이미지를 직접 추가하거나 캠을 통해 업로드를 하게되고, 해당 이미지를 Classification 학습 모델을 통과시켜 분류를 해줍니다.
+즉, 해당 프로그램은 이미지를 직접 추가하거나 캠을 통해 업로드를 하게되고, 해당 이미지를 Classification 학습 모델을 통과시켜 분류를 해줍니다.
 
 ## 학습 데이터
 
-1. 데이터 수집
+### 1. 데이터 수집
 
    Ai Hub와 Kaggle, 그리고 웹 크롤링을 통해 데이터 수집.
    
-3. Data Split
+### 2. Data Split
 
    train : valid : test = 8 : 1 : 1 비율로 나누어 dataset / label / image 구조로 저장했습니다.
 
    이미지의 비율을 유지하기 위해 가로 세로 중 짧은 쪽은 검은 배경으로 채워 정사각형 이미지를 만들었습니다.
 
-5. Custom data set
+### 3. Custom data set
 
    __init__ 에서 데이터셋의 경로, task('train', 'valid', 'test' 중 하나)를 통해 다른 transforms를 적용.
 
