@@ -91,7 +91,8 @@ Classification모델을 활용한 쓰레기 분류 프로그램입니다.
 
 ### 3. Custom data set
 
-   __init__ 에서 데이터셋의 경로, task('train', 'valid', 'test' 중 하나)를 통해 다른 transforms를 적용.
+   __init__ 에서 데이터셋의 경로, task('train', 'valid', 'test' 중 하나)를 입력 받아 해당하는 이미지의 경로들을 객체 변수에 할당.
+   transforms를 받아 객체 변수에 할당.
 
    ![image](https://github.com/user-attachments/assets/0f1da00c-eb95-4434-815a-f99592b90e00)
 
